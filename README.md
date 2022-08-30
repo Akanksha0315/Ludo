@@ -3,13 +3,13 @@
 Ludo is a very entertaining game that became quite popular during the Pandemic, especially in India. It follows a systematic line of play which is easy to grasp and brings out competitiveness amongst players. I chose this version of the game ‘Ludo’ for my project as it is multiplayer and a new challenge that I would like to take up when it comes to game development.
 
 ## 2. About the Game
-#### 2.1 Game Description
+### 2.1 Game Description
 Ludo is a popular board-and-dice game that requires each player to use strategy, tactics, counting and probability in order to race their tokens from start to finish based on the rolls of a single die. A 2-4 player game, each individual has four tokens and a unique trajectory to follow. The design of the board game is of ‘Cross and Circle’ type and is shaped like a symmetrical cross.
 
-#### 2.2 Objective of the Game
+### 2.2 Objective of the Game
 The Objective of the game is to be the first player to successfully race all 4 of their tokens to the finishing point while reducing the opponents’ chances of doing the same.
 
-#### 2.3 Game Rules
+### 2.3 Game Rules
 The rules for the game are as follows:
 1. Each player is assigned a color (from red, yellow, blue, and green) and is provided with
 four tokens in their color.
@@ -27,10 +27,10 @@ back to the starting point where that opponent would require to roll a 6 (in the
 9. Some spaces are allocated as “safe points” where a token cannot be “captured”.
 
 ## 3. Players
-#### 3.1 Player Management
+### 3.1 Player Management
 Ludo is a game usually played between 2-4 people. On this interface, we allow players to enter details for participants. Initially, users are required to enter the number of players they choose to play with. Once this task is complete, they are required to enter the names of the users playing in order to make it easy for users to identify the color they are supposed to represent during the game session.
 
-#### 3.2 Player Functions
+### 3.2 Player Functions
 Players are required to perform the following functions for User Management: 
 1. Select Number of Players
 2. Enter Valid Usernames for those playing the game
@@ -42,14 +42,14 @@ tokens
 they wish to move in their turn
 
 ## 4. Game Elements
-#### 4.1 Objects
+### 4.1 Objects
 The following are Objects that are required to be created for this game:
 1. The Layout of the Game Board
 2. 16 Independent Tokens distributed equally among 4 colors (each player has control over
 4 tokens of a single color)
 3. 1 Dice (unbiased/randomized display of natural numbers between 1-6)
 
-#### 4.2 (Potential) Files
+### 4.2 (Potential) Files
 The following are Classes/Files that are required to be created for this game:
 1. SetUp – class to set up game; associate colors with players [GUI]
 a. getNumberPlayers() – to get total number of players (2-4) b. getPlayerName() – to get all the name of the players
@@ -84,4 +84,11 @@ Reports can be generated for the following cases:
 2. Page to inform all players that the game has ended; displays ranking.
 
 
-## 6. Functions and Flowcharts 6.1 User Management
+## 6. Functions and Flowcharts 
+### 6.1 User Management
+
+
+
+#### 6.1.1 User Management Functions
+1. Each User is provided with a screen to select a natural number ranging from 2 to 4 representing the number of players.
+2. On selection, the user’s screen provides a number of username entry fields corresponding to the number selected previously.
