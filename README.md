@@ -1,10 +1,10 @@
 # GAME DEVELOPMENT: THE GAME OF ‘LUDO’
 ## 1. Problem Statement
-Ludo is a very entertaining game that became quite popular during the Pandemic, especially in India. It follows a systematic line of play which is easy to grasp and brings out competitiveness amongst players. I chose this version of the game ‘Ludo’ for my project as it is multiplayer and a new challenge that I would like to take up when it comes to game development.
+Ludo is a very entertaining game that became quite popular during the Pandemic, especially in India. It follows a systematic line of play which is easy to grasp and brings out competitiveness amongst players. I chose this version of the game ‘Ludo’ for my project as it is multiplayer and is a new challenge that I would like to take up in the field of game development.
 
 ## 2. About the Game
 ### 2.1 Game Description
-Ludo is a popular board-and-dice game that requires each player to use strategy, tactics, counting and probability in order to race their tokens from start to finish based on the rolls of a single die. A 2-4 player game, each individual has four tokens and a unique trajectory to follow. The design of the board game is of ‘Cross and Circle’ type and is shaped like a symmetrical cross.
+Ludo is a popular board-and-dice game that requires each player to use strategy, tactics, counting and probability in order to race their tokens from start to finish based on the rolls of a single die. It is a 2-4 player game where each individual has four tokens and a unique trajectory to follow. The design of the board game is of ‘Cross and Circle’ type and is shaped like a symmetrical cross.
 
 ### 2.2 Objective of the Game
 The Objective of the game is to be the first player to successfully race all 4 of their tokens to the finishing point while reducing the opponents’ chances of doing the same.
