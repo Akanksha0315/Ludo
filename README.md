@@ -92,3 +92,36 @@ Reports can be generated for the following cases:
 #### 6.1.1 User Management Functions
 1. Each User is provided with a screen to select a natural number ranging from 2 to 4 representing the number of players.
 2. On selection, the user’s screen provides a number of username entry fields corresponding to the number selected previously.
+
+### 6.2 Game Set Up
+#### 6.2.1 Game Set Up Functions
+1. Each User is provided with a screen which displays the layout of the Game 
+2. Alongside the board set up, users are provided with a display box of users’ information relating to the game including – associated color, number of tokens at base, and number of tokens at home
+
+### 6.3 Game Session
+#### 6.3.1 Game Session Functions
+1. Click button to “roll a die” – this function will generate a random (unbiased) natural number from 1 – 6 which further corresponds to the appropriate moves of one of their tokens
+2. Once a player has entered more than one tokens into play, they must click on the token they wish to move in their turn
+
+### 6.4 Game Over
+#### 6.4.1 Game Over Function
+1. User is provided with a screen that displays the results of the Game Session
+
+## 7. Class Diagrams
+
+## 8. GUI Mockup
+### 8.1 User Management Page 1: Select number of players
+### 8.2 User Management Page 2: Enter Player Name
+### 8.3 User Management Page 3: Error Page
+### 8.4 Game Session Page 1: Board Set Up (4 Players)
+### 8.5 Game Session Page 2: Game Mid-Session (4 Players)
+### 8.6 Game Session Page 3: Game Mid-Session (3 Players)
+### 8.7 Game Session Page 4: Game Mid-Session (2 Players)
+### 8.8 Game Session Page 5: Game Mid-Session (4 Players)
+### 8.9 Game Session Page 6: Game Mid-Session (2 Players)
+
+## 9. RESOURCES
+Software used to create this document
+1. Microsoft Word – for documentation and Ludo Board MockUps 
+2. ClickChart – for flowchart and UML diagram
+3. Pencil – for Screen MockUps
